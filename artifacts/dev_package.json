@@ -1,0 +1,53 @@
+{
+	"id": "06a2ac84-c6c3-ef11-88cf-000d3add6cca",
+	"createdAt": "2024-12-26T20:18:07.863Z",
+	"createdBy": "luis.gonzalez@neptune-software.com",
+	"git": {
+		"remote": "https://github.com/hermanlui99/scripttest.git"
+	},
+	"name": "ticlet_22561",
+	"description": null,
+	"ver": "24.12.26.2034",
+	"enableCICD": true,
+	"apps": [],
+	"api": [],
+	"odataSource": [],
+	"odataMock": [],
+	"dictionary": [],
+	"jsclass": [
+		{
+			"id": "6b102934-8068-ee11-9937-000d3ade8894",
+			"name": "TEST1",
+			"description": null
+		}
+	],
+	"jsscript_group": [
+		{
+			"id": "411d0428-8068-ee11-9937-000d3ade8894",
+			"name": "LUIS_SCRIPTS",
+			"description": null
+		}
+	],
+	"theme": [],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [],
+	"category": [],
+	"launchpad": [],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"department": [],
+	"script_scheduler": [],
+	"wf_definition": [],
+	"connector": [],
+	"events": [],
+	"code_snippets": [],
+	"wf_determination": [],
+	"wf_taskaction": []
+}
