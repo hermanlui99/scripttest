@@ -4,7 +4,7 @@
   "description": "testGit",
   "author": "Neptune Software",
   "license": "LicenseRef-LICENSE",
-  "private": true,
+  "private": false,
   "scripts": {
     "deploy": "ts-node src/deploy.ts",
     "test": "jest --passWithNoTests"
